@@ -9,6 +9,7 @@ This web project was created using primarily HTML5 and CSS3, as part of the curr
 The different Stream Pages visually illustrate the subjects covered and implemented in the different sections of the course.
 The original structure and style formatting were created using Cloud9. 
 It was later moved to and edited in the Gitpod IDE, and backed up to a remote repository using Git and GitHub.
+At present this project is being hosted on GitHub pages.
 
 ## Contents:
 - This ReadMe file to outline the website project,
