@@ -10,6 +10,7 @@ The different Stream Pages visually illustrate the subjects covered and implemen
 The original structure and style formatting were created using Cloud9. 
 It was later moved to and edited in the Gitpod IDE, and backed up to a remote repository using Git and GitHub.
 At present this project is being hosted on GitHub pages.
+To view this live deployed website, click this link: "https://sheenakennedy.github.io/my-first-website/" .
 
 ## Contents:
 - This ReadMe file to outline the website project,
